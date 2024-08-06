@@ -1,0 +1,7 @@
+"manhunt"
+{
+    "base"          "base"
+    "title"         "Manhunt"
+    "maps"          ""
+    "menusystem"    "1"
+}
